@@ -1,5 +1,3 @@
-Usage:
-
 Downloads multiple files in parallel using CPR lib/STL.
 
 Build:
