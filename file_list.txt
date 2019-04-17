@@ -1,0 +1,2 @@
+http://www.cplusplus.com/reference/atomic/atomic_flag/test_and_set/
+https://tpc.googlesyndication.com/simgad/18381244148447902599
